@@ -1,5 +1,4 @@
-================================
-ELECTION SIMULATION PROGRAM================================
+                        ELECTION SIMULATION PROGRAM
 
 
 To run the Election simulator you just have to double click on the "Assignment2.bat" 
